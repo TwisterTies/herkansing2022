@@ -18,3 +18,5 @@
 7. Er zou nu een connectie moeten zijn met de backend applicatie vanuit de frontend applicatie.
 
 LET OP: De database is nog niet voorzien van data, upload eerst een bestand om de database te vullen. Daarna zou er een overview aan cursussen moeten zijn.
+
+P.S.: Als je gebruik wilt maken van de 'huidige week' functie, zorg er dan ook even voor dat er entries in de DB staan met cursussen in de huidige week. Anders blijft dat ook leeg ;)
