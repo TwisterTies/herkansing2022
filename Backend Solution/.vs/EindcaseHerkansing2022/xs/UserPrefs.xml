@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{A3A86204-09BF-419B-8B8D-8995D3D0A1F5}|Unit Tests">
+  <MonoDevelop.Ide.Workbench ActiveDocument="EindcaseHerkansing2022.UnitTests/Controllers/CourseImportControllerTest.cs">
+    <Files>
+      <File FileName="EindcaseHerkansing2022.UnitTests/Controllers/CourseImportControllerTest.cs" Line="17" Column="11" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="EindcaseHerkansing2022" expanded="True">
+            <Node name="EindcaseHerkansing2022" expanded="True" />
+            <Node name="EindcaseHerkansing2022.UnitTests" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="CourseImportControllerTest.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="EindcaseHerkansing2022" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.EindcaseHerkansing2022.UnitTests PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.EindcaseHerkansing2022 PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
