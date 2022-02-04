@@ -1,27 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "/Users/bryan/Desktop/Github Upload/Backend Solution/EindcaseHerkansing2022/EindcaseHerkansing2022.csproj": {}
+    "/Users/bryan/Desktop/Github Upload/herkansing2022/Backend Solution/EindcaseHerkansing2022/EindcaseHerkansing2022.csproj": {}
   },
   "projects": {
-    "/Users/bryan/Desktop/Github Upload/Backend Solution/EindcaseHerkansing2022/EindcaseHerkansing2022.csproj": {
+    "/Users/bryan/Desktop/Github Upload/herkansing2022/Backend Solution/EindcaseHerkansing2022/EindcaseHerkansing2022.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/bryan/Desktop/Github Upload/Backend Solution/EindcaseHerkansing2022/EindcaseHerkansing2022.csproj",
+        "projectUniqueName": "/Users/bryan/Desktop/Github Upload/herkansing2022/Backend Solution/EindcaseHerkansing2022/EindcaseHerkansing2022.csproj",
         "projectName": "EindcaseHerkansing2022",
-        "projectPath": "/Users/bryan/Desktop/Github Upload/Backend Solution/EindcaseHerkansing2022/EindcaseHerkansing2022.csproj",
+        "projectPath": "/Users/bryan/Desktop/Github Upload/herkansing2022/Backend Solution/EindcaseHerkansing2022/EindcaseHerkansing2022.csproj",
         "packagesPath": "/Users/bryan/.nuget/packages/",
-        "outputPath": "/Users/bryan/Desktop/Github Upload/Backend Solution/EindcaseHerkansing2022/obj/",
+        "outputPath": "/Users/bryan/Desktop/Github Upload/herkansing2022/Backend Solution/EindcaseHerkansing2022/obj/",
         "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "/Users/bryan/.nuget/NuGet/NuGet.Config"
-        ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
-        "sources": {
-          "https://api.nuget.org/v3/index.json": {}
-        },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",

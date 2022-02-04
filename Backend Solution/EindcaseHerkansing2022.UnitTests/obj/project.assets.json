@@ -8310,27 +8310,21 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/bryan/Desktop/Github Upload/Backend Solution/EindcaseHerkansing2022.UnitTests/EindcaseHerkansing2022.UnitTests.csproj",
+      "projectUniqueName": "/Users/bryan/Desktop/Github Upload/herkansing2022/Backend Solution/EindcaseHerkansing2022.UnitTests/EindcaseHerkansing2022.UnitTests.csproj",
       "projectName": "EindcaseHerkansing2022.UnitTests",
-      "projectPath": "/Users/bryan/Desktop/Github Upload/Backend Solution/EindcaseHerkansing2022.UnitTests/EindcaseHerkansing2022.UnitTests.csproj",
+      "projectPath": "/Users/bryan/Desktop/Github Upload/herkansing2022/Backend Solution/EindcaseHerkansing2022.UnitTests/EindcaseHerkansing2022.UnitTests.csproj",
       "packagesPath": "/Users/bryan/.nuget/packages/",
-      "outputPath": "/Users/bryan/Desktop/Github Upload/Backend Solution/EindcaseHerkansing2022.UnitTests/obj/",
+      "outputPath": "/Users/bryan/Desktop/Github Upload/herkansing2022/Backend Solution/EindcaseHerkansing2022.UnitTests/obj/",
       "projectStyle": "PackageReference",
-      "configFilePaths": [
-        "/Users/bryan/.nuget/NuGet/NuGet.Config"
-      ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
-      "sources": {
-        "https://api.nuget.org/v3/index.json": {}
-      },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "/Users/bryan/Desktop/Github Upload/Backend Solution/EindcaseHerkansing2022/EindcaseHerkansing2022.csproj": {
-              "projectPath": "/Users/bryan/Desktop/Github Upload/Backend Solution/EindcaseHerkansing2022/EindcaseHerkansing2022.csproj"
+            "/Users/bryan/Desktop/Github Upload/herkansing2022/Backend Solution/EindcaseHerkansing2022/EindcaseHerkansing2022.csproj": {
+              "projectPath": "/Users/bryan/Desktop/Github Upload/herkansing2022/Backend Solution/EindcaseHerkansing2022/EindcaseHerkansing2022.csproj"
             }
           }
         }

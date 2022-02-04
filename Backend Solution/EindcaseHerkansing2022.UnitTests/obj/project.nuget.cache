@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JlUy1sGV87K0VdU2rfHpOKajCQ8oUB+K5ySP6ZzCNQbvILpCXhpLNFV0UZ25I3VOy5pRHCLkWGe0IM1QvSD2EQ==",
+  "dgSpecHash": "iqq4XiHv+Ax0r5M1pARZznJDwkponMC0Nu2bs1+sQqU0A0xsqKvEeulkXhH8Fkmg5o/9KfaAA/ek2ZiYAgOcfw==",
   "success": true,
-  "projectFilePath": "/Users/bryan/Desktop/Github Upload/Backend Solution/EindcaseHerkansing2022.UnitTests/EindcaseHerkansing2022.UnitTests.csproj",
+  "projectFilePath": "/Users/bryan/Desktop/Github Upload/herkansing2022/Backend Solution/EindcaseHerkansing2022.UnitTests/EindcaseHerkansing2022.UnitTests.csproj",
   "expectedPackageFiles": [
     "/Users/bryan/.nuget/packages/castle.core/4.4.0/castle.core.4.4.0.nupkg.sha512",
     "/Users/bryan/.nuget/packages/coverlet.collector/3.1.0/coverlet.collector.3.1.0.nupkg.sha512",

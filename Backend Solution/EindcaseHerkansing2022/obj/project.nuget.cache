@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wnPQw05HJ/tpgr0OXwhWI+v+tkwWxz9blHM40QMQZjLRxgC2UWIBY0uq05h24Fxxh/72NjTTWILtFwKPY23Fpw==",
+  "dgSpecHash": "Q6PGj5ihviD0u5E5HvTNoMcADGjQrozeZuKkhm5ego2rhuTQXKvTFC+FbsyTGvggsj/TJXHoxxLQl3v2rRXOqA==",
   "success": true,
-  "projectFilePath": "/Users/bryan/Desktop/Github Upload/Backend Solution/EindcaseHerkansing2022/EindcaseHerkansing2022.csproj",
+  "projectFilePath": "/Users/bryan/Desktop/Github Upload/herkansing2022/Backend Solution/EindcaseHerkansing2022/EindcaseHerkansing2022.csproj",
   "expectedPackageFiles": [
     "/Users/bryan/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
     "/Users/bryan/.nuget/packages/microsoft.csharp/4.5.0/microsoft.csharp.4.5.0.nupkg.sha512",
