@@ -26,7 +26,7 @@ public class Startup
         services.AddControllers();
 
         services.AddDbContext<CourseContext>(options =>
-            options.UseSqlServer(Configuration.GetConnectionString("DockerConnection")));
+            options.UseSqlServer(Configuration.GetConnectionString("LocalDbConnection")));
         
         services.AddScoped<ICourseOverviewService, CourseOverviewService>();
         services.AddScoped<ICourseOverviewRepository, CourseOverviewRepository>();
